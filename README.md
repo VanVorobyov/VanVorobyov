@@ -1,13 +1,14 @@
-Front-end Developer
-====================================================================================================================================
+
 
 
 <p align="center">
-<img src="./header.png'/>
+<img src="https://github.com/VanVorobyov/VanVorobyov/blob/main/header.png?raw=true"/>
 </p>
 
 -------------
 
+Front-end Developer
+===================================================================================================================================
 * 🌍  I'm based in Moscow, RUSSIA
 * ✉️  You can contact me at [ya@ivanvorobev.ru](mailto:ya@ivanvorobev.ru)
 
@@ -38,5 +39,5 @@ Front-end Developer
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
