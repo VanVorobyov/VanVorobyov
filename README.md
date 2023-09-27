@@ -2,6 +2,10 @@ Front-end Developer
 ====================================================================================================================================
 
 
+<p align="center">
+  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
+</p>
+
 -------------
 
 * 🌍  I'm based in Moscow, RUSSIA
@@ -30,3 +34,9 @@ Front-end Developer
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/VanVorobyov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanVorobyov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
