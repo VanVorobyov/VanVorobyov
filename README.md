@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=VanVorobyov&color=green)
 
 
 <p align="center">
@@ -8,19 +8,22 @@
 -------------
 
 Front-end Developer
-===================================================================================================================================
-* 🌍  I'm based in Moscow, RUSSIA
-* ✉️  You can contact me at [ya@ivanvorobev.ru](mailto:ya@ivanvorobev.ru)
+=====
 
-
+  <div id="contact" align="left">
+  <p>🌍  I'm based in Moscow, RUSSIA</p>
+  <p>✉️  You can contact me at:</p>
   <a href="https://t.me/vanvorobyov" target="_blank">
     <img src="https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <div>
   <a href="mailto:ya@ivanvorobev.ru" target="_blank">
     <img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
+  
+
+-------------
+
 
 ### Skills
 
@@ -43,9 +46,14 @@ Front-end Developer
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+----------
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VanVorobyov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanxvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+----------
+
 
 ![Metrics](https://metrics.lecoq.io/VanVorobyov?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
 <p align="left">
