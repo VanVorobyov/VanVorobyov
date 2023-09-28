@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=100:99B479,0:C7D3B9&height=80&section=header&)
 
-![](https://komarev.com/ghpvc/?username=VanVorobyov&color=green)
-
-
-
   <div id="promo" align="left" style="display: flex">
     <a><img src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="20%"/></a>
     <a><img src="https://github.com/VanVorobyov/VanVorobyov/blob/main/header.png?raw=true" width="79%"/></a>
   </div>
-
+  
+![](https://komarev.com/ghpvc/?username=VanVorobyov&color=green)
 
 
 
