@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=100:99B479,0:C7D3B9&height=80&section=header&)
 
-
-
 ![](https://komarev.com/ghpvc/?username=VanVorobyov&color=green)
-
-
 
 
 
@@ -66,16 +62,18 @@ Front-end Developer
 <p align="left"> <a href="https://www.github.com/VanVorobyov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanxvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ----------
+<!-- ![Metrics](https://metrics.lecoq.io/VanVorobyov?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
+-->
 
-
-![Metrics](https://metrics.lecoq.io/VanVorobyov?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)
-<p align="left">
+  <div id="contact1" align="left">
+    <p align="left">
 <b align="left">My GitHub Stats</b>
 </p>
-<p align="left">
-<a href="https://github.com/VanVorobyov" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanVorobyov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
 
+<a href="https://github.com/VanVorobyov" align="center"><img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanVorobyov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a><img width="60%" src="https://metrics.lecoq.io/VanVorobyov?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow"/>  
+</a>
+  </div>
 
 <p align="left">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=100:99B479,0:C7D3B9&height=80&section=footer"/>
