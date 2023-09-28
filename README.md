@@ -19,12 +19,15 @@ Front-end Developer
   <div id="contact" align="left">
   <p>🌍  I'm based in Moscow, RUSSIA</p>
   <p>✉️  You can contact me at:</p>
+    <div>
   <a href="https://t.me/vanvorobyov" target="_blank">
     <img src="https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ya@ivanvorobev.ru" target="_blank">
     <img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Youtube Badge"/>
   </a>
+         <a><img width="5.5%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
+    </div>
   </div>
   
 
