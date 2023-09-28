@@ -1,4 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=100:99B479,0:C7D3B9&height=80&section=header&)
+
+
+
 ![](https://komarev.com/ghpvc/?username=VanVorobyov&color=green)
+
+
+
 
 
   <div id="promo" align="left" style="display: flex">
@@ -71,5 +78,5 @@ Front-end Developer
 
 
 <p align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=100:99B479,0:C7D3B9&height=80&section=footer"/>
 </p>
