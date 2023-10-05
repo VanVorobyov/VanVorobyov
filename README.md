@@ -12,15 +12,18 @@
 
 
 -------------
-
-Front-end Developer
-=====
-
   <div id="contact" align="left">
+  <p>
+   I’m a Front-end software developer with a passion for creating innovative and user-friendly applications. My goal is to create a positive impact on the world through technology, and I’m always looking for new challenges and opportunities to grow as a developer.
+
+🚀 My current interests include exploring new technologies, experimenting with emerging frameworks and libraries, and contributing to open-source projects. I believe in the power of collaboration and sharing knowledge, which is why I’ve chosen to contribute to various open-source communities.
+
+📚 In my free time, I enjoy reading technical books and blogs, attending meetups and conferences, and learning about the latest trends in the tech industry. I’m also a big fan of learning new programming languages and experimenting with different programming paradigms.
+
+🌱 In summary, if you’re looking for someone who is eager to learn, share knowledge, and create positive impacts through technology, then I’m your guy! Feel free to reach out if you have any questions or want to collaborate on a project. I always appreciate new opportunities to network and grow as a professional.</p>
   <p>🌍  I'm based in Moscow, RUSSIA</p>
-  <p>✉️  You can contact me at:</p><a href="https://t.me/vanvorobyov" target="_blank"><img src="https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:ya@ivanvorobev.ru" target="_blank"><img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-  <a><img width="6.4%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
+  <p>✉️  You can contact me at:</p>
+  <a href="https://t.me/vanvorobyov" target="_blank"><img src= "https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="mailto:ya@ivanvorobev.ru" target="_blank"><img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white"/></a><a><img width="6.4%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
   </div>
   
 
