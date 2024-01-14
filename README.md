@@ -16,14 +16,20 @@
   <p>
    I’m a Front-end software developer with a passion for creating innovative and user-friendly applications. My goal is to create a positive impact on the world through technology, and I’m always looking for new challenges and opportunities to grow as a developer.
 
-🚀 My current interests include exploring new technologies, experimenting with emerging frameworks and libraries, and contributing to open-source projects. I believe in the power of collaboration and sharing knowledge, which is why I’ve chosen to contribute to various open-source communities.
+🚀 Actively exploring new technologies and contributing to open-source projects.
 
-📚 In my free time, I enjoy reading technical books and blogs, attending meetups and conferences, and learning about the latest trends in the tech industry. I’m also a big fan of learning new programming languages and experimenting with different programming paradigms.
+📚 Enjoys staying updated on industry trends, attending tech events, and experimenting with programming. 
 
-🌱 In summary, if you’re looking for someone who is eager to learn, share knowledge, and create positive impacts through technology, then I’m your guy! Feel free to reach out if you have any questions or want to collaborate on a project. I always appreciate new opportunities to network and grow as a professional.</p>
+🌱 Eager to learn, share knowledge, and create positive tech impacts.
+
+🌐 Open to collaboration and networking for continuous professional growth.
+
+<hr>
+
   <p>🌍  I'm based in Moscow, RUSSIA</p>
-  <p>✉️  You can contact me at:</p>
+  <p>✉️  You can contact me at:<br>
   <a href="https://t.me/vanvorobyov" target="_blank"><img src= "https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="mailto:ya@ivanvorobev.ru" target="_blank"><img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white"/></a><a><img width="6.4%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
+  </p>
   </div>
   
 
@@ -34,9 +40,13 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -46,6 +56,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-8f1439?style=for-the-badge&logo=storybook)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
