@@ -24,11 +24,7 @@
 
 🌐 Open to collaboration and networking for continuous professional growth.
 
-<hr>
-  PROJECTS: <br>
-  🔸 Better Together  -  https://2260993-dk30711.twc1.net/
-  
-<hr>
+
 
   <p>🌍  I'm based in Moscow, RUSSIA</p>
   <p>✉️  You can contact me at:<br>
@@ -36,11 +32,17 @@
   </p>
   </div>
   
+<hr>
 
--------------
+
+  ### Projects:
+
+  🔸 Better Together  -  https://2260993-dk30711.twc1.net/
+  
+<hr>
 
 
-### Skills
+### Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
