@@ -37,8 +37,11 @@
 
   ### Projects:
 
-  🔸 Better Together  -  https://2260993-dk30711.twc1.net/
-  🔸 CodePet  -  [https://2260993-dk30711.twc1.net/](https://devcodepet.tw1.ru/)  Репозиторий клиента: https://github.com/Pet-projects-CodePET/Frontend
+  Проектные выполненые в команде разработчиков, проджект менеджером, тестировщиков, аналитиков, дизайнеров:
+
+  🔸 Better Together  -  https://2260993-dk30711.twc1.net/ <br>
+  🔸 Проект CodePet  -  https://devcodepet.tw1.ru/  <br>
+  Репозиторий клиента: https://github.com/Pet-projects-CodePET/Frontend
 
 
   
