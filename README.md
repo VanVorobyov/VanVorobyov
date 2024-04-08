@@ -37,11 +37,10 @@
 
   ### Projects:
 
-  Проектные выполненые в команде разработчиков, проджект менеджером, тестировщиков, аналитиков, дизайнеров:
-
   🔸 Better Together  -  https://2260993-dk30711.twc1.net/ <br>
-  🔸 Проект CodePet  -  https://devcodepet.tw1.ru/  <br>
-  Репозиторий клиента: https://github.com/Pet-projects-CodePET/Frontend
+  <br>
+  🔸 CodePet  -  https://devcodepet.tw1.ru/  <br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REPO: https://github.com/Pet-projects-CodePET/Frontend
 
 
   
