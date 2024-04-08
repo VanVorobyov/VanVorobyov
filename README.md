@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=100:99B479,0:C7D3B9&height=80&section=header&)
-
   <div id="promo" align="left" style="display: flex">
     <a><img src="https://github.com/VanVorobyov/VanVorobyov/blob/main/VanVorobyov.gif" width="22.9%"/></a>
     <a><img src="https://github.com/VanVorobyov/VanVorobyov/blob/main/header.png?raw=true" width="76.4%"/></a>
@@ -11,22 +10,8 @@
 
 
 
--------------
-  <div id="contact" align="left">
-  <p>
-   I’m a Front-end software developer with a passion for creating innovative and user-friendly applications. My goal is to create a positive impact on the world through technology, and I’m always looking for new challenges and opportunities to grow as a developer.
 
-🚀 Actively exploring new technologies and contributing to open-source projects.
-
-📚 Enjoys staying updated on industry trends, attending tech events, and experimenting with programming. 
-
-🌱 Eager to learn, share knowledge, and create positive tech impacts.
-
-🌐 Open to collaboration and networking for continuous professional growth.
-
-
-
-  <p>🌍  I'm based in Moscow, RUSSIA</p>
+  <p>🌍  Based in Moscow, Russia</p>
   <p>✉️  You can contact me at:<br>
   <a href="https://t.me/vanvorobyov" target="_blank"><img src= "https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="mailto:ya@ivanvorobev.ru" target="_blank"><img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white"/></a><a><img width="6.4%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
   </p>
