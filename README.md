@@ -35,7 +35,7 @@
 <hr>
 
 
-  ### Projects:
+  # Projects
 
   🔸 Better Together  -  https://2260993-dk30711.twc1.net/ <br>
   <br>
@@ -48,9 +48,9 @@
 <hr>
 
 
-# Skills:
+# Skills
 
-### Frontend
+### Frontend:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -84,7 +84,7 @@
 
 ----------
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/VanVorobyov" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanxvan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
