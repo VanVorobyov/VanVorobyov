@@ -8,27 +8,11 @@
 
 
 
-
-
-
   <p>🌍  Based in Moscow, Russia</p>
   <p>✉️  You can contact me at:<br>
   <a href="https://t.me/vanvorobyov" target="_blank"><img src= "https://img.shields.io/badge/telegram-@vanvorobyov-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="mailto:ya@ivanvorobev.ru" target="_blank"><img src="https://img.shields.io/badge/email-ya@ivanvorobev.ru-yellow?style=for-the-badge&logo=minutemailer&logoColor=white"/></a><a><img width="6.4%" src="https://media.tenor.com/x-jDtiNXLJcAAAAi/sleepy-beter-bed.gif"/></a>
   </p>
   </div>
-  
-<hr>
-
-
-  # Projects
-
-  🔸 Better Together  -  https://2260993-dk30711.twc1.net/ <br>
-  <br>
-  🔸 CodePet  -  https://devcodepet.tw1.ru/  <br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REPO: https://github.com/Pet-projects-CodePET/Frontend
-
-
-  
   
 <hr>
 
